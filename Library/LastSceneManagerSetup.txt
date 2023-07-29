@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/RW/Scenes/IntoTheAttic-Starter.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
